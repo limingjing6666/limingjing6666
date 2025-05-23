@@ -32,11 +32,11 @@
 
 | 技能         | 掌握度 |
 | ------------ | :----: |
-| Java         | ██████████░░ 80% |
-| Spring       | ████████░░░░ 65% |
-| MySQL        | ███████░░░░░ 55% |
-| Markdown     | ███████████ 100% |
-| Git          | ████████░░░░ 70% |
+| Java         | ███░░░░░░░░░░ 30% |
+| Spring       | █░░░░░░░░░░░░ 10% |
+| MySQL        | ██░░░░░░░░░░░ 20% |
+| Markdown     | █░░░░░░░░░░░░ 10% |
+| Git          | █░░░░░░░░░░░░░ 15% |
 
 ---
 
@@ -48,14 +48,18 @@
 
 ---
 
-## 🌟 互动区
+## 🧩 随机彩色格言
 
 <p align="center">
-  <a href="https://github.com/limingjing6666?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/limingjing6666?style=social" alt="Star limingjing6666"/>
-  </a>
-  <br>
-  <b>喜欢就点个 Star 吧！</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36C5F0&center=true&vCenter=true&width=500&lines=Keep+Coding,+Keep+Dreaming!;用代码点亮生活;热爱让一切变得有趣;Hello+World,+Hello+Future!"/>
+</p>
+
+---
+
+## 🖼️ 每日一图
+
+<p align="center">
+  <img src="https://picsum.photos/seed/limingjing6666/400/120" alt="每日一图"/>
 </p>
 
 ---
