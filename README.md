@@ -1,4 +1,8 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=世界很大,但我的生活很小......&center=true&size=28"> </a> </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding cat"/>
+</p>
+
+  <img src="https://img.shields.io/badge/java-spring-red" style="margin-left: 20px;">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=dark"></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Wechat-微信-green" style="margin-right: 20px;">
@@ -12,6 +16,10 @@
 ---
 
 ## 🦄 关于我
+
+<p>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" align="right"/>
+</p>
 
 - 🏄‍♂️ 热爱探索新技术，喜欢用代码表达想法
 - 🧩 偶尔写Bug，偶尔修Bug，偶尔让Bug自生自灭
