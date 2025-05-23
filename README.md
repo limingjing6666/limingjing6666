@@ -18,7 +18,7 @@
 ## 🦄 关于我
 
 <p>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" align="right"/>
+  <img src="https://media.giphy.com/media/eRIvTqn3CW1kYPpVXh/giphy.gif?cid=ecf05e47c47vuajnie1qd8l3z2oxlcmdtudr0eno6zu66wmp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" align="right"/>
 </p>
 
 - 🏄‍♂️ 热爱探索新技术，喜欢用代码表达想法
