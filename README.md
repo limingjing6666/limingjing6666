@@ -1,5 +1,14 @@
-## Hi there 👋
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=limingjing6666&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=世界很大,但我的生活很小......&center=true&size=28"> </a> </h1>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=dark"></div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Wechat-微信-green" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/java-spring-red" style="margin-left: 20px";>
+</div>
+
+
+
+
+
 <!--
 **limingjing6666/limingjing6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
