@@ -48,10 +48,10 @@
 
 ---
 
-## 🧩 随机彩色格言
+## 🧩 gogo出发喽
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36C5F0&center=true&vCenter=true&width=500&lines=Keep+Coding,+Keep+Dreaming!;用代码点亮生活;热爱让一切变得有趣;Hello+World,+Hello+Future!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36C5F0&center=true&vCenter=true&width=500&lines=Keep+Coding,+Keep+Dreaming!;黑咖啡品味有多浓;我只要汽水的轻松;Hello+World,+Hello+Future!"/>
 </p>
 
 ---
