@@ -56,13 +56,6 @@
 
 ---
 
-## 🖼️ 每日一图
-
-<p align="center">
-  <img src="https://picsum.photos/seed/limingjing6666/400/120" alt="每日一图"/>
-</p>
-
----
 
 <details>
 <summary>🎁 彩蛋：点开有惊喜</summary>
