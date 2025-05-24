@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding cat"/>
 </p>
 
-  <img src="https://img.shields.io/badge/java-spring-red" style="margin-left: 20px;">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=dark"></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Wechat-微信-green" style="margin-right: 20px;">
