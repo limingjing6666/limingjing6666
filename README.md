@@ -32,13 +32,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/limingjing6666">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/limingjing6666">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=limingjing6666&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/limingjing6666">
+  <img src="https://streak-stats.demolab.com/?user=limingjing6666&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -48,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=limingjing6666&theme=tokyonight&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=limingjing6666&theme=tokyonight&no-frame=true&column=7&cache_seconds=3600" />
 
 </div>
 
