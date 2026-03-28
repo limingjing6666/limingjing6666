@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=180&section=header&text=Hi!&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=F7971E&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+%7C+MySQL;Backend+Development+%7C+Tech+Writing;Sias+University+%7C+Software+Engineering;Blog+limingjing.me)](https://git.io/typing-svg)
+<img src="https://github-profile-trophy.vercel.app/?username=limingjing6666&theme=tokyonight&no-frame=true&column=7&row=1" />
 
 <br/>
 
@@ -16,49 +14,37 @@
 
 ---
 
-### About Me
+### 关于我
 
-- **School:** 郑州西亚斯学院
-- **Major:** Software Engineering
-- **Focus:** Backend Development
-- **Hobby:** Technical Writing
-- **Blog:** [limingjing.me](https://limingjing.me)
+- **学校：** 郑州西亚斯学院
+- **专业：** 软件工程
+- **方向：** 后端开发
+- **爱好：** 技术写作
+- **博客：** [小景的博客](https://limingjing.me)
 
-Currently working on Java backend projects. Learning Spring Cloud & Microservices. Sharing tech insights on my [blog](https://limingjing.me).
+正在学习 Spring Cloud 和微服务架构。喜欢在[博客](https://limingjing.me)上分享技术心得。
 
 ---
 
-### GitHub Stats
+### GitHub 数据
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=limingjing6666&theme=tokyonight&hide_border=true" />
+![Streak](https://streak-stats.demolab.com/?user=limingjing6666&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### GitHub Trophies
+### 贡献贪吃蛇
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=limingjing6666&theme=tokyonight&no-frame=true&column=7" />
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake.svg" />
+![snake](https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -66,6 +52,6 @@ Currently working on Java backend projects. Learning Spring Cloud & Microservice
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=limingjing6666&label=Profile%20Views&color=blueviolet&style=flat" />
+![visitors](https://komarev.com/ghpvc/?username=limingjing6666&label=访问量&color=blueviolet&style=flat)
 
 </div>
