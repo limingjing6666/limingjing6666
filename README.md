@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=180&section=header&text=Hi!&fontSize=50&fontAlignY=35&desc=后端开发%20%7C%20Java%20爱好者&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=F7971E&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+%7C+MySQL;后端开发%20|%20技术写作;郑州西亚斯学院%20|%20软件工程;小景的博客+limingjing.me)](https://git.io/typing-svg)
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
@@ -30,33 +28,28 @@
 
 ### GitHub 数据
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/limingjing6666">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" />
-</a>
+**统计**
 
-<a href="https://github.com/limingjing6666">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" />
-</a>
+| 指标 | 数据 |
+|------|------|
+| 公开仓库 | ![repos](https://img.shields.io/github/languages/code-size/limingjing6666?style=social) |
+| 粉丝 | ![followers](https://img.shields.io/github/followers/limingjing6666?label=followers&style=social) |
+| Star | ![stars](https://img.shields.io/github/stars/limingjing6666?style=social) |
 
-<br/>
+</td>
+<td>
 
-<a href="https://github.com/limingjing6666">
-  <img src="https://streak-stats.demolab.com/?user=limingjing6666&theme=tokyonight&hide_border=true" />
-</a>
+**语言**
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400)
 
----
-
-### 成就奖杯
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=limingjing6666&theme=tokyonight&no-frame=true&column=7&cache_seconds=3600" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake.svg" />
+![snake](https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -72,6 +65,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=limingjing6666&label=访问量&color=blueviolet&style=flat" />
+![visitors](https://komarev.com/ghpvc/?username=limingjing6666&label=访问量&color=blueviolet&style=flat)
 
 </div>
