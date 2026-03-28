@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=180&section=header&text=Hi!&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=180&section=header&text=Hi!&fontSize=50&fontAlignY=35&desc=后端开发%20%7C%20Java%20爱好者&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=F7971E&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+%7C+MySQL;Building+awesome+backend+stuff;Tech+blogger+at+limingjing.me;Sias+University+%7C+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=F7971E&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+%7C+MySQL;后端开发%20|%20技术写作;郑州西亚斯学院%20|%20软件工程;小景的博客+limingjing.me)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,19 +16,19 @@
 
 ---
 
-### About Me
+### 关于我
 
-- **School:** 郑州西亚斯学院
-- **Major:** Software Engineering
-- **Focus:** Backend Development
-- **Hobby:** Technical Writing
-- **Blog:** [limingjing.me](https://limingjing.me)
+- **学校：** 郑州西亚斯学院
+- **专业：** 软件工程
+- **方向：** 后端开发
+- **爱好：** 技术写作
+- **博客：** [小景的博客](https://limingjing.me)
 
-Currently working on Java backend projects. Learning Spring Cloud & Microservices. Sharing tech insights on my [blog](https://limingjing.me).
+正在学习 Spring Cloud 和微服务架构。喜欢在[博客](https://limingjing.me)上分享技术心得。
 
 ---
 
-### GitHub Stats
+### GitHub 数据
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Currently working on Java backend projects. Learning Spring Cloud & Microservice
 
 ---
 
-### GitHub Trophies
+### 成就奖杯
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Currently working on Java backend projects. Learning Spring Cloud & Microservice
 
 ---
 
-### Contribution Snake
+### 贡献贪吃蛇
 
 <div align="center">
 
@@ -66,6 +66,6 @@ Currently working on Java backend projects. Learning Spring Cloud & Microservice
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=limingjing6666&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=limingjing6666&label=访问量&color=blueviolet&style=flat" />
 
 </div>
