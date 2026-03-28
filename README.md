@@ -30,13 +30,18 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com/?user=limingjing6666&theme=tokyonight&hide_border=true)
+![followers](https://img.shields.io/github/followers/limingjing6666?label=粉丝&style=social)
+![stars](https://img.shields.io/github/stars/limingjing6666?label=Stars&style=social)
+![repos](https://img.shields.io/github/repo-count/limingjing6666?label=仓库数&style=social)
+![forks](https://img.shields.io/github/forks/limingjing6666?label=Forks&style=social)
 
 </div>
+
+| 语言 | 熟练度 |
+|------|--------|
+| Java | ![Java](https://img.shields.io/badge/████████░░-80%25-orange) |
+| Spring | ![Spring](https://img.shields.io/badge/██████░░░░-60%25-green) |
+| MySQL | ![MySQL](https://img.shields.io/badge/████████░░-80%25-blue) |
 
 ---
 
