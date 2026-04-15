@@ -60,7 +60,7 @@
 
 <p>
   <a href="https://limingjing.me"><img src="https://img.shields.io/badge/博客-limingjing.me-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/limingjing6666"><img src="https://img.shields.io/badge/GitHub-@limingjing6666-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:limingjing6868@gmail.com"><img src="https://img.shields.io/badge/Email-limingjing6868@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
