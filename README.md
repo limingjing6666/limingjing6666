@@ -4,7 +4,7 @@
 
 ---
 
-## 🦄 关于我
+## it‘s me
 
 <p>
   <img src="https://media.giphy.com/media/eRIvTqn3CW1kYPpVXh/giphy.gif?cid=ecf05e47c47vuajnie1qd8l3z2oxlcmdtudr0eno6zu66wmp&ep=v3_gifs_search&rid=giphy.gif&ct=g" width="120" align="right"/>
@@ -18,17 +18,25 @@
 
 ---
 
-## 🚀 技术栈
+## 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-221E68?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-0058A0?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Openclaw-FF8C00?style=for-the-badge" alt="Openclaw" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://my-github-readme-stats-smoky.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -38,7 +46,7 @@
 
 ---
 
-## 🐍 贪吃蛇
+## 贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake-dark.svg" />
@@ -48,7 +56,7 @@
 
 ---
 
-## 📬 联系我
+## 联系我
 
 <p>
   <a href="https://limingjing.me"><img src="https://img.shields.io/badge/博客-limingjing.me-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>
