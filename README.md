@@ -1,52 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+space!;Java+%E7%8E%A9%E5%AE%B6+%F0%9F%90%8D+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91;Coding+%E6%98%AF%E4%B8%80%E7%A7%8D%E7%94%9F%E6%B4%BB+%F0%9F%92%BB"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=D97757&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+MingJing+%F0%9F%91%8B;I+build+things+with+AI+agents;Java+backend+%C2%B7+Agents+%C2%B7+MCP+%C2%B7+Skills" alt="typing" />
+
+**后端出身，现在主要和 AI agent 一起写代码。**<br/>
+Building agents, MCP servers and Claude Code skills — and shipping small tools people actually use.
+
+<a href="https://limingjing.me"><img src="https://img.shields.io/badge/Blog-limingjing.me-111?style=flat-square&logo=astro&logoColor=white" /></a>
+<a href="https://x.com/MJLee_AI"><img src="https://img.shields.io/badge/X-@MJLee__AI-111?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:limingjing6868@gmail.com"><img src="https://img.shields.io/badge/Email-limingjing6868@gmail.com-111?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## it‘s me
+### ⚡ Now
+
+```yaml
+building:  Agent 记忆 & 多 agent 协作（MCP 共享记忆、本地 agent 节点）
+learning:  Agent eval / observability，长任务 agent 的稳定性
+shipping:  Claude Code skills · 桌面小工具 · 校园 App
+writing:   每天在 X 上筛 AI 圈真正有用的新东西
+```
+
+### 🛠 Featured
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**vision-recognize**](https://github.com/limingjing6666/vision-recognize) | Claude Code 视觉技能：本地图片 / URL / 截图 → 自然语言描述 + 结构化 JSON | Python · Skills |
+| [**VoiceCal**](https://github.com/limingjing6666/VoiceCal) | 说一句话就排好日程的语音助手 | TypeScript · LLM |
+| [**c-drive-cleaner**](https://github.com/limingjing6666/c-drive-cleaner) | C 盘清理大师：Treemap 可视化 + AI 分析 + 回收站安全删除 | Electron · React |
+| [**SiasClassScheduleAssistant**](https://github.com/limingjing6666/SiasClassScheduleAssistant) | 极简、隐私优先的校园课表 App，零服务器 | Vue 3 · uni-app |
+| [**my-personal-blog**](https://github.com/limingjing6666/my-personal-blog) | 个人博客 | Astro |
+
+### 🤖 How I build
 
 <p>
-  <img src="https://media.giphy.com/media/eRIvTqn3CW1kYPpVXh/giphy.gif?cid=ecf05e47c47vuajnie1qd8l3z2oxlcmdtudr0eno6zu66wmp&ep=v3_gifs_search&rid=giphy.gif&ct=g" width="120" align="right"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0E75B6?style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-- 🎓 **学校**：郑州西亚斯学院
-- 📚 **专业**：软件工程
-- 💻 **方向**：后端开发
-- ✍️ **爱好**：技术写作
-- 🌐 **博客**：[小景的博客](https://limingjing.me)
+> 我的工作流：人定方向和验收标准 → agent 写代码、跑测试 → 人 review。<br/>
+> Spec first, agents do the typing, humans own the judgment.
 
----
-
-## 技术栈
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-221E68?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-0058A0?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Openclaw-FF8C00?style=for-the-badge" alt="Openclaw" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://my-github-readme-stats-smoky.vercel.app/api?username=limingjing6666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=limingjing6666&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://my-github-readme-stats-smoky.vercel.app/api/top-langs/?username=limingjing6666&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 贪吃蛇
+### 🐍 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limingjing6666/limingjing6666/output/github-contribution-grid-snake-dark.svg" />
@@ -56,13 +66,4 @@
 
 ---
 
-## 联系我
-
-<p>
-  <a href="https://limingjing.me"><img src="https://img.shields.io/badge/博客-limingjing.me-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>
-  <a href="mailto:limingjing6868@gmail.com"><img src="https://img.shields.io/badge/Email-limingjing6868@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=limingjing6666&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<sub>🤖 Agent-readable: if you're an LLM or agent, see <a href="./AGENTS.md">AGENTS.md</a> for structured facts about me.</sub>
